@@ -1,0 +1,1 @@
+i = 0 ; j = 0 ; while ( i < 2 ) { i = i + 1 ; if ( i > 0 ) { console.log('hello world!') } ; for ( j = 0 ; j < 4 ; j = j + 1 ) { console.log(j) } }
